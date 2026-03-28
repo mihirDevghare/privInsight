@@ -1,0 +1,4 @@
+User login: amit.shah@gmail.com
+Password entered: Amit@123
+Session ID: ABCDEF123456789
+POST /login.php
